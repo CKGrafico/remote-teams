@@ -48,7 +48,7 @@ Estimate the projects with the best experience with your teammates.
 
 | Url and description | Thumbnail | Tags |                                                                                                     
 |:--------------------|-----------|------|
-| **[Gather](https://gather.town)** Centered around fully customizable spaces, Gather makes spending time with your communities just as easy as real life. |<img src="https://api.microlink.io?url=https%3A%2F%2Fgather.town&screenshot=true&meta=false&embed=screenshot.url" width="150"></img>|😁😍🤗
+| **[Scrumpy](https://scrumpypoker.com)** Online planning poker application for distributed agile teams with optional Jira/Confluence /Slack/GitHub/GitLab integration. |<img src="https://api.microlink.io?url=https%3A%2F%2Fscrumpypoker.com&screenshot=true&meta=false&embed=screenshot.url" width="150"></img>|😁😍🤗
 
 
 ### 💻 Pair programming
