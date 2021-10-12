@@ -29,7 +29,9 @@ Lorem ipsum.
 
 | Website |   Description | Thumbnail | Tags |                                                                                                     
 |---------------------------------------------------------------|--|--|--|
-| [Gather](https://gather.town) | Centered around fully customizable spaces, Gather makes spending time with your communities just as easy as real life. |<img src="https://api.microlink.io?url=https%3A%2F%2Fgather.town&screenshot=true&meta=false&embed=screenshot.url" width="150"></img>|[🆓💳](#-tags-and-information)[📞](#-chat-and-call)
+| [Slack](https://slack.com) | It's the digital HQ for everyone you work with—even people at other companies. |<img src="https://api.microlink.io?url=https%3A%2F%2Fslack.com&screenshot=true&meta=false&embed=screenshot.url" width="150"></img>|[🆓💳](#-tags-and-information)
+| [Teams](https://www.microsoft.com/microsoft-teams) | Meet, chat, call, and collaborate in just one place. |<img src="https://api.microlink.io?url=https%3A%2F%2Fwww.microsoft.com/en-us/microsoft-teams&screenshot=true&meta=false&embed=screenshot.url" width="150"></img>|[🆓💳](#-tags-and-information)
+| [Zoom](https://zoom.us) | Keeping you securely connected wherever you are. |<img src="https://api.microlink.io?url=https%3A%2F%2Fzoom.us&screenshot=true&meta=false&embed=screenshot.url" width="150"></img>|[🆓💳](#-tags-and-information)
 
 
 ### 🤹 Manage Team
