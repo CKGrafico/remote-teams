@@ -1,4 +1,4 @@
-# Amazing tools for remote teams
+# Productive tools for remote teams
 A list of websites and blog post to help your teams in the Remote Work world.
 
 ### 🏢 Virtual Offices
