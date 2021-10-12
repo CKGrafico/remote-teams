@@ -1,4 +1,4 @@
-![Logo](logo.png)
+![Logo](.github/logo.png)
 
 # 🔭 Productive tools for remote teams
 
