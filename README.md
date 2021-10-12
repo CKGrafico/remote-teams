@@ -1,13 +1,12 @@
 # Productive tools for remote teams
 A list of websites and blog post to help your teams in the Remote Work world.
 
-# Table of content
 - [🏢 Virtual Offices](#-virtual-offices) Tools to be connected the most part of the time and have  virtual experience with your team.
 - [📞 Chat and Call](#-chat-and-call) Lorem ipsum.
-- [🤹🏻‍♂️ Project and Team Management](#-project-and-team-management) Lorem ipsum.
+- [⛳ Project and Team Management](#-project-and-team-management) Lorem ipsum.
 - [🃏 Estimations](#-estimations) Lorem ipsum.
 - [💻 Pair programming](#-pair-programming) Lorem ipsum.
-- [👩🏾‍🏫 Retrospectives](#-retrospectives) Lorem ipsum.
+- [🚥 Retrospectives](#-retrospectives) Lorem ipsum.
 - [🏂🏼 Team Building](#-team-building) Lorem ipsum.
 - [🔮 Remote Jobs](#-remote-jobs) List made by experts of Remote Jobs aggregtors and websites.
 - [📒 Tags and information](#-tags-and-information) There are some tags to describe how this tool can help to your team.
@@ -33,7 +32,7 @@ Lorem ipsum.
 | [Zoom](https://zoom.us) | Keeping you securely connected wherever you are. |<img src="https://api.microlink.io?url=https%3A%2F%2Fzoom.us&screenshot=true&meta=false&embed=screenshot.url" width="150"></img>|[🆓💳](#-tags-and-information)
 
 
-### 🤹🏻‍♂️ Project and Team Management
+### ⛳ Project and Team Management
 
 Lorem ipsum.
 
@@ -61,7 +60,7 @@ Lorem ipsum.
 | [Gather](https://gather.town) | Centered around fully customizable spaces, Gather makes spending time with your communities just as easy as real life. |<img src="https://api.microlink.io?url=https%3A%2F%2Fgather.town&screenshot=true&meta=false&embed=screenshot.url" width="150"></img>|😁😍🤗
 
 
-### 👩🏾‍🏫 Retrospectives
+### 🚥 Retrospectives
 
 Lorem ipsum.
 
