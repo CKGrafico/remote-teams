@@ -71,6 +71,8 @@ Allow the remote team, as a group, to evaluate its past working cycle.
 |:--------------------|-----------|------|
 | **[Easy Retro](https://gather.town)** Centered around fully customizable spaces, Gather makes spending time with your communities just as easy as real life. |<img src="https://api.microlink.io?url=https%3A%2F%2Fgather.town&screenshot=true&meta=false&embed=screenshot.url" width="150"></img>|😁😍🤗
 
+TODO: https://easyretro.io/,https://www.retrium.com/,https://miro.com/,https://www.mural.co/
+
 ### 🏂 Team Building
 
 Improve your team interactions and communication with something fun.
