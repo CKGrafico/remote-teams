@@ -90,7 +90,7 @@ If a tool could fit in more than one category, it will have the icon of the cate
 Example:
 | Website |   Description | Thumbnail | Tags |                                                                                                     
 |---------------------------------------------------------------|--|--|--|
-| [Lorem](https://lipsum.com) | A tool to generate Lorem ipsum texts |<img src="https://api.microlink.io?url=https%3A%2F%2Fwww.lipsum.com&screenshot=true&meta=false&embed=screenshot.url" width="150"></img>|🆓🤗🏢
+| [Lorem](https://lipsum.com) | A tool to generate Lorem ipsum texts |<img src="https://api.microlink.io?url=https%3A%2F%2Fwww.lipsum.com&screenshot=true&meta=false&embed=screenshot.url" width="150"></img>|[🆓🤗](#remote-tools-tags-information)[🏢](#-virtual-offices)
 
 ---
 Made with 🍕 by [Quique Fdez Guerra](https://twitter.com/ckgrafico)
