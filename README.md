@@ -19,7 +19,9 @@ Tools to be connected the most part of the time and have  virtual experience wit
 
 | Website |   Description | Thumbnail | Tags |                                                                                                     
 |---------------------------------------------------------------|--|--|--|
-| [Gather](https://gather.town) | Centered around fully customizable spaces, Gather makes spending time with your communities just as easy as real life. |<img src="https://api.microlink.io?url=https%3A%2F%2Fgather.town&screenshot=true&meta=false&embed=screenshot.url" width="150"></img>|😁😍🤗
+| [Discord](https://discord.com) | A place that makes it easy to talk every day and hang out more often. |<img src="https://api.microlink.io?url=https%3A%2F%2Fdiscord.com&screenshot=true&meta=false&embed=screenshot.url" width="150"></img>|[🆓](#-tags-and-information)[📞](#-chat-and-call)
+| [Gather](https://gather.town) | Centered around fully customizable spaces, Gather makes spending time with your communities just as easy as real life. |<img src="https://api.microlink.io?url=https%3A%2F%2Fgather.town&screenshot=true&meta=false&embed=screenshot.url" width="150"></img>|[🆓💳](#-tags-and-information)[📞](#-chat-and-call)
+| [Discord as a Virtual Office](https://debbie.codes/blog/discord-virtual-office) | Blog post by Debbie O'Bryan about use Discord as a Virtual Office. |<img src="https://api.microlink.io?url=https%3A%2F%2Fdebbie.codes/blog/discord-virtual-office&screenshot=true&meta=false&embed=screenshot.url" width="150"></img>|[✍](#-tags-and-information)
 
 ### 📞 Chat and Call
 
@@ -27,7 +29,7 @@ Lorem ipsum.
 
 | Website |   Description | Thumbnail | Tags |                                                                                                     
 |---------------------------------------------------------------|--|--|--|
-| [Gather](https://gather.town) | Centered around fully customizable spaces, Gather makes spending time with your communities just as easy as real life. |<img src="https://api.microlink.io?url=https%3A%2F%2Fgather.town&screenshot=true&meta=false&embed=screenshot.url" width="150"></img>|😁😍🤗
+| [Gather](https://gather.town) | Centered around fully customizable spaces, Gather makes spending time with your communities just as easy as real life. |<img src="https://api.microlink.io?url=https%3A%2F%2Fgather.town&screenshot=true&meta=false&embed=screenshot.url" width="150"></img>|[🆓💳](#-tags-and-information)[📞](#-chat-and-call)
 
 
 ### 🤹 Manage Team
