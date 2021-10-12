@@ -48,7 +48,7 @@ Estimate the projects with the best experience with your teammates.
 
 | Url and description | Thumbnail | Tags |                                                                                                     
 |:--------------------|-----------|------|
-| **[Scrumpy](https://scrumpypoker.com)** Online planning poker application for distributed agile teams with optional Jira/Confluence /Slack/GitHub/GitLab integration. |<img src="https://api.microlink.io?url=https%3A%2F%2Fscrumpypoker.com&screenshot=true&meta=false&embed=screenshot.url" width="150"></img>|😁😍🤗
+| **[Scrumpy](https://scrumpypoker.com)** Online planning poker application for distributed agile teams with optional Jira/Confluence /Slack/GitHub/GitLab integration. |<img src="https://api.microlink.io?url=https%3A%2F%2Fscrumpypoker.com&screenshot=true&meta=false&embed=screenshot.url" width="150"></img>|[🆓](#-tags-and-information)
 
 
 ### 💻 Pair programming
@@ -57,8 +57,10 @@ Pair programming is not only screenshare, use this tools to improve your product
 
 | Url and description | Thumbnail | Tags |                                                                                                     
 |:--------------------|-----------|------|
-| **[Gather](https://gather.town)** Centered around fully customizable spaces, Gather makes spending time with your communities just as easy as real life. |<img src="https://api.microlink.io?url=https%3A%2F%2Fgather.town&screenshot=true&meta=false&embed=screenshot.url" width="150"></img>|😁😍🤗
-
+| **[Code Anywhere](https://codeanywhere.com)** Saves you time by deploying a development environment in seconds, enabling you to code, learn, build, and collaborate on your projects.. |<img src="https://api.microlink.io?url=https%3A%2F%2Fcodeanywhere.com&screenshot=true&meta=false&embed=screenshot.url" width="150"></img>|[🆓💳](#-tags-and-information)
+| **[Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)** Enables you to collaboratively edit and debug with others in real time, regardless what programming languages you're using or app types you're building. |<img src="https://api.microlink.io?url=https%3A%2F%2Fmarketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare&screenshot=true&meta=false&embed=screenshot.url" width="150"></img>|[🆓](#-tags-and-information)
+| **[Paircast](https://paircast.io)** Identify great candidates by watching how they solve problems on video. No meetings required. |<img src="https://api.microlink.io?url=https%3A%2F%2Fpaircast.io&screenshot=true&meta=false&embed=screenshot.url" width="150"></img>|[🆓](#-tags-and-information)
+| **[Teletype](https://teletype.atom.io)** Lets developers share their workspace with team members and collaborate on code in real time. |<img src="https://api.microlink.io?url=https%3A%2F%2Fteletype.atom.io&screenshot=true&meta=false&embed=screenshot.url" width="150"></img>|[🆓](#-tags-and-information)
 
 ### 🚥 Retrospectives
 
