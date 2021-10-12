@@ -1,5 +1,5 @@
 # Amazing tools for remote teams
-A list of websites and blog post to help your teams in the Remote Work.
+A list of websites and blog post to help your teams in the Remote Work world.
 
 ### 🏢 Virtual Offices
 
@@ -12,7 +12,7 @@ Tools to be connected the most part of the time and have  virtual experience wit
 
 ### 🔮 Remote Jobs
 
-Tools to be connected the most part of the time and have  virtual experience with your team.
+List made by experts of Remote Jobs aggregtors and websites.
 
 | Website |   Description | Thumbnail | Tags |                                                                                                     
 |---------------------------------------------------------------|--|--|--|
