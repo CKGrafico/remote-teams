@@ -4,8 +4,7 @@ A list of websites and blog post to help your teams in the Remote Work world.
 # Table of content
 - [🏢 Virtual Offices](#-virtual-offices) Tools to be connected the most part of the time and have  virtual experience with your team.
 - [📞 Chat and Call](#-chat-and-call) Lorem ipsum.
-- [🤹🏻‍♂️ Manage Team](#-manage-team) Lorem ipsum.
-- [🏁 Manage Project](#-manage-project) Lorem ipsum.
+- [🤹🏻‍♂️ Project and Team Management](#-project-and-team-management) Lorem ipsum.
 - [🃏 Estimations](#-estimations) Lorem ipsum.
 - [💻 Pair programming](#-pair-programming) Lorem ipsum.
 - [👩🏾‍🏫 Retrospectives](#-retrospectives) Lorem ipsum.
@@ -34,22 +33,15 @@ Lorem ipsum.
 | [Zoom](https://zoom.us) | Keeping you securely connected wherever you are. |<img src="https://api.microlink.io?url=https%3A%2F%2Fzoom.us&screenshot=true&meta=false&embed=screenshot.url" width="150"></img>|[🆓💳](#-tags-and-information)
 
 
-### 🤹 Manage Team
+### 🤹🏻‍♂️ Project and Team Management
 
 Lorem ipsum.
 
 | Website |   Description | Thumbnail | Tags |                                                                                                     
-|---------------------------------------------------------------|--|--|--|
-| [Gather](https://gather.town) | Centered around fully customizable spaces, Gather makes spending time with your communities just as easy as real life. |<img src="https://api.microlink.io?url=https%3A%2F%2Fgather.town&screenshot=true&meta=false&embed=screenshot.url" width="150"></img>|😁😍🤗
-
-
-### 🏁 Manage Project
-
-Lorem ipsum.
-
-| Website |   Description | Thumbnail | Tags |                                                                                                     
-|---------------------------------------------------------------|--|--|--|
-| [Gather](https://gather.town) | Centered around fully customizable spaces, Gather makes spending time with your communities just as easy as real life. |<img src="https://api.microlink.io?url=https%3A%2F%2Fgather.town&screenshot=true&meta=false&embed=screenshot.url" width="150"></img>|😁😍🤗
+|---------------------------------------------------------------|--|--|--
+| [Azure Devops](https://azure.microsoft.com/services/devops/) | Plan smarter, collaborate better, and ship faster with a set of modern dev services. |<img src="https://api.microlink.io?url=https%3A%2F%2Fazure.microsoft.com/en-us/services/devops&screenshot=true&meta=false&embed=screenshot.url" width="150"></img>|[🆓💳](#-tags-and-information)
+| [Jira](https://www.atlassian.com/software/jira) | The best software teams ship early and often. |<img src="https://api.microlink.io?url=https%3A%2F%2Fwww.atlassian.com/software/jira&screenshot=true&meta=false&embed=screenshot.url" width="150"></img>|[🆓💳](#-tags-and-information)
+| [Monday](https://monday.com) | Easily build, run, and scale your dream workflows on one platform. |<img src="https://api.microlink.io?url=https%3A%2F%2Fmonday.com&screenshot=true&meta=false&embed=screenshot.url" width="150"></img>|[🆓💳](#-tags-and-information)
 
 ### 🃏 Estimations
 
