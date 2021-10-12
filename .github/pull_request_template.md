@@ -8,16 +8,18 @@ Please include a summary of the change and which issue is fixed. Please also inc
 - [ ] Bug fix
 - [ ] New tool
 - [ ] Update a tool
+- [ ] New blog post
+- [ ] Update a blog post
 
 ## Ownership
 
-- [ ] I'm not the owner
-- [ ] I'm not the owner but I'm from the same company
-- [ ] I'm the owner
+- [ ] I'm not the author of the tool
+- [ ] I'm not the author but I'm contributor
+- [ ] I'm the author
 
 # Checklist:
 
-- [ ] I have sorted the tool alphabetically
+- [ ] I have sorted the tool alphabetically (and blog posts after tools)
 - [ ] I have not removed the contribution from other user
 - [ ] I have used this tool in the past
 - [ ] This is not an advert
