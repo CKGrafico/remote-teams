@@ -1,6 +1,18 @@
 # Productive tools for remote teams
 A list of websites and blog post to help your teams in the Remote Work world.
 
+# Table of content
+- [🏢 Virtual Offices](#-virtual-offices) Tools to be connected the most part of the time and have  virtual experience with your team.
+- [🏢 Chat and Call](#-chat-and-call) Lorem ipsum.
+- [🏢 Manage Team](#-manage-team) Lorem ipsum.
+- [🏢 Manage Project](#-manage-project) Lorem ipsum.
+- [🏢 Estimations](#-estimations) Lorem ipsum.
+- [🏢 Pair programming](#-pair-programming) Lorem ipsum.
+- [🏢 Retrospectives](#-retrospectives) Lorem ipsum.
+- [🏢 Team Building](#-team-building) Lorem ipsum.
+- [🔮 Remote Jobs](#-remote-jobs) List made by experts of Remote Jobs aggregtors and websites.
+- [📒 Remote tools tags information](#remote-tools-tags-information) There are some tags to describe how this tool can help to your team.
+
 ### 🏢 Virtual Offices
 
 Tools to be connected the most part of the time and have  virtual experience with your team.
@@ -80,7 +92,7 @@ List made by experts of Remote Jobs aggregtors and websites.
 | [Remote Jobs List](https://github.com/PatrickJS/remote-jobs-list) | Simply a list of companies or jobs boards advertising Remote Jobs. |<img src="https://api.microlink.io?url=https%3A%2F%2Fgithub.com/PatrickJS/remote-jobs-list&screenshot=true&meta=false&embed=screenshot.url" width="150"></img>|😁😍🤗
 | [Wakkos Remote Jobs](https://github.com/Wakkos/RemoteJobs) | A list of remote jobs aggregators by [Wakkos](https://twitter.com/wakkos). |<img src="https://api.microlink.io?url=https%3A%2F%2Fgithub.com/Wakkos/RemoteJobs&screenshot=true&meta=false&embed=screenshot.url" width="150"></img>|😁😍🤗
 
-# Remote tools tags information
+# 📒 Remote tools tags information
 There are some tags to describe how this tool can help to your team.
 - 🆓 The tool is totally free.
 - 💳 You have to pay to use this tool.
@@ -90,7 +102,7 @@ If a tool could fit in more than one category, it will have the icon of the cate
 Example:
 | Website |   Description | Thumbnail | Tags |                                                                                                     
 |---------------------------------------------------------------|--|--|--|
-| [Lorem](https://lipsum.com) | A tool to generate Lorem ipsum texts |<img src="https://api.microlink.io?url=https%3A%2F%2Fwww.lipsum.com&screenshot=true&meta=false&embed=screenshot.url" width="150"></img>|[🆓🤗](#remote-tools-tags-information)[🏢](#-virtual-offices)
+| [Lorem](https://lipsum.com) | A tool to generate Lorem ipsum texts |<img src="https://api.microlink.io?url=https%3A%2F%2Fwww.lipsum.com&screenshot=true&meta=false&embed=screenshot.url" width="150"></img>|[🆓🤗](#-remote-tools-tags-information)[🏢](#-virtual-offices)
 
 ---
 Made with 🍕 by [Quique Fdez Guerra](https://twitter.com/ckgrafico)
