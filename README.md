@@ -1,6 +1,6 @@
 ![Logo](logo.png)
 
-## Productive tools for remote teams
+# 🔭 Productive tools for remote teams
 
 - [🏢 Virtual Offices](#-virtual-offices) Tools to be connected the most part of the time and have virtual experience with your team.
 - [📞 Chat and Call](#-chat-and-call) Use professional tools instead personal apps to communicate with the team.
