@@ -18,7 +18,7 @@ Tools to be connected the most part of the time and have  virtual experience wit
 | Url and description | Thumbnail | Tags |                                                                                                     
 |:--------------------|-----------|------|
 | **[Discord](https://discord.com)** A place that makes it easy to talk every day and hang out more often. |<img src="https://api.microlink.io?url=https%3A%2F%2Fdiscord.com&screenshot=true&meta=false&embed=screenshot.url" width="150"></img>|[🆓](#-tags-and-information)[📞](#-chat-and-call)
-| **[Gather](https://gather.town)** Centered around fully customizable spaces, Gather makes spending time with your communities just as easy as real life. |<img src="https://api.microlink.io?url=https%3A%2F%2Fgather.town&screenshot=true&meta=false&embed=screenshot.url" width="150"></img>|[🆓💳](#-tags-and-information)[📞](#-chat-and-call)
+| **[Gather](https://gather.town)** Centered around fully customizable spaces, Gather makes spending time with your communities just as easy as real life. |<img src="https://api.microlink.io?url=https%3A%2F%2Fgather.town&screenshot=true&meta=false&embed=screenshot.url" width="150"></img>|[🆓💳](#-tags-and-information)[📞](#-chat-and-call)[🏂](#-team-building) 
 | **[Discord as a Virtual Office](https://debbie.codes/blog/discord-virtual-office)** Blog post by Debbie O'Bryan about use Discord as a Virtual Office. |<img src="https://api.microlink.io?url=https%3A%2F%2Fdebbie.codes/blog/discord-virtual-office&screenshot=true&meta=false&embed=screenshot.url" width="150"></img>|[✍](#-tags-and-information)
 
 ### 📞 Chat and Call
@@ -41,6 +41,7 @@ Manage the project and the capacity or billing of your team.
 | **[Azure Devops](https://azure.microsoft.com/services/devops/)** Plan smarter, collaborate better, and ship faster with a set of modern dev services. |<img src="https://api.microlink.io?url=https%3A%2F%2Fazure.microsoft.com/en-us/services/devops&screenshot=true&meta=false&embed=screenshot.url" width="150"></img>|[🆓💳](#-tags-and-information)
 | **[Jira](https://www.atlassian.com/software/jira)** The best software teams ship early and often. |<img src="https://api.microlink.io?url=https%3A%2F%2Fwww.atlassian.com/software/jira&screenshot=true&meta=false&embed=screenshot.url" width="150"></img>|[🆓💳](#-tags-and-information)
 | **[Monday](https://monday.com)** Easily build, run, and scale your dream workflows on one platform. |<img src="https://api.microlink.io?url=https%3A%2F%2Fmonday.com&screenshot=true&meta=false&embed=screenshot.url" width="150"></img>|[🆓💳](#-tags-and-information)
+| **[Officevibe](https://officevibe.com)** A single platform to engage with your team members and cultivate trust. Tackle challenges and build strengths so your team can do its best work. |<img src="https://api.microlink.io?url=https%3A%2F%2Fofficevibe.com&screenshot=true&meta=false&embed=screenshot.url" width="150"></img>|[💳](#-tags-and-information)
 
 ### 🃏 Estimations
 
@@ -68,7 +69,7 @@ Allow the remote team, as a group, to evaluate its past working cycle.
 
 | Url and description | Thumbnail | Tags |                                                                                                     
 |:--------------------|-----------|------|
-| **[Gather](https://gather.town)** Centered around fully customizable spaces, Gather makes spending time with your communities just as easy as real life. |<img src="https://api.microlink.io?url=https%3A%2F%2Fgather.town&screenshot=true&meta=false&embed=screenshot.url" width="150"></img>|😁😍🤗
+| **[Easy Retro](https://gather.town)** Centered around fully customizable spaces, Gather makes spending time with your communities just as easy as real life. |<img src="https://api.microlink.io?url=https%3A%2F%2Fgather.town&screenshot=true&meta=false&embed=screenshot.url" width="150"></img>|😁😍🤗
 
 ### 🏂 Team Building
 
