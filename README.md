@@ -96,6 +96,7 @@ List made by experts of Remote Jobs aggregtors and websites.
 There are some tags to describe how this tool can help to your team.
 - 🆓 The tool is totally free.
 - 💳 You have to pay to use this tool.
+- ✍🏻 A blog post interesting to learn about the tools of this category.
 
 If a tool could fit in more than one category, it will have the icon of the category as a tag.
 
