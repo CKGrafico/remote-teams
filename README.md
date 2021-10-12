@@ -1,13 +1,13 @@
 # Productive tools for remote teams
 A list of websites and blog post to help your teams in the Remote Work world.
 
-- [🏢 Virtual Offices](#-virtual-offices) Tools to be connected the most part of the time and have  virtual experience with your team.
-- [📞 Chat and Call](#-chat-and-call) Lorem ipsum.
-- [⛳ Project and Team Management](#-project-and-team-management) Lorem ipsum.
-- [🃏 Estimations](#-estimations) Lorem ipsum.
-- [💻 Pair programming](#-pair-programming) Lorem ipsum.
-- [🚥 Retrospectives](#-retrospectives) Lorem ipsum.
-- [🏂🏼 Team Building](#-team-building) Lorem ipsum.
+- [🏢 Virtual Offices](#-virtual-offices) Tools to be connected the most part of the time and have virtual experience with your team.
+- [📞 Chat and Call](#-chat-and-call) Use professional tools instead personal apps to communicate with the team.
+- [⛳ Project and Team Management](#-project-and-team-management) Manage the project and the capacity or billing of your team.
+- [🃏 Estimations](#-estimations) Estimate the projects with the best experience with your teammates.
+- [💻 Pair programming](#-pair-programming) Pair programming is not only screenshare, use this tools to improve your productivity.
+- [🚥 Retrospectives](#-retrospectives) Allow the remote team, as a group, to evaluate its past working cycle.
+- [🏂🏼 Team Building](#-team-building) Improve your team interactions and communication with something fun.
 - [🔮 Remote Jobs](#-remote-jobs) List made by experts of Remote Jobs aggregtors and websites.
 - [📒 Tags and information](#-tags-and-information) There are some tags to describe how this tool can help to your team.
 
@@ -23,7 +23,7 @@ Tools to be connected the most part of the time and have  virtual experience wit
 
 ### 📞 Chat and Call
 
-Lorem ipsum.
+Use professional tools instead personal apps to communicate with the team.
 
 | Website |   Description | Thumbnail | Tags |                                                                                                     
 |---------------------------------------------------------------|--|--|--|
@@ -34,7 +34,7 @@ Lorem ipsum.
 
 ### ⛳ Project and Team Management
 
-Lorem ipsum.
+Manage the project and the capacity or billing of your team.
 
 | Website |   Description | Thumbnail | Tags |                                                                                                     
 |---------------------------------------------------------------|--|--|--
@@ -44,7 +44,7 @@ Lorem ipsum.
 
 ### 🃏 Estimations
 
-Lorem ipsum.
+Estimate the projects with the best experience with your teammates.
 
 | Website |   Description | Thumbnail | Tags |                                                                                                     
 |---------------------------------------------------------------|--|--|--|
@@ -53,7 +53,7 @@ Lorem ipsum.
 
 ### 💻 Pair programming
 
-Lorem ipsum.
+Pair programming is not only screenshare, use this tools to improve your productivity.
 
 | Website |   Description | Thumbnail | Tags |                                                                                                     
 |---------------------------------------------------------------|--|--|--|
@@ -62,7 +62,7 @@ Lorem ipsum.
 
 ### 🚥 Retrospectives
 
-Lorem ipsum.
+Allow the remote team, as a group, to evaluate its past working cycle.
 
 | Website |   Description | Thumbnail | Tags |                                                                                                     
 |---------------------------------------------------------------|--|--|--|
@@ -70,7 +70,7 @@ Lorem ipsum.
 
 ### 🏂 Team Building
 
-Lorem ipsum.
+Improve your team interactions and communication with something fun.
 
 | Website |   Description | Thumbnail | Tags |                                                                                                     
 |---------------------------------------------------------------|--|--|--|
