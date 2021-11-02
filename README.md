@@ -81,8 +81,9 @@ Improve your team interactions and communication with something fun.
 
 | Url and description | Thumbnail | Tags |                                                                                                     
 |:--------------------|-----------|------|
-
-
+| **[Among Us](https://www.innersloth.com/games/among-us/)** A party game of teamwork and betrayal. Crewmates work together to complete tasks before one or more Impostors can kill everyone aboard. |<img src="https://api.microlink.io?url=https%3A%2F%2Finnersloth.com%2Fgames%2Famong-us&screenshot=true&meta=false&embed=screenshot.url" width="150"></img>|[🆓💳](#-tags-and-information)
+| **[Kahoot](https://kahoot.com)** Make learning awesome! Delivers engaging learning to billions. |<img src="https://api.microlink.io?url=https%3A%2F%2Fkahoot.com&screenshot=true&meta=false&embed=screenshot.url" width="150"></img>|[🆓](#-tags-and-information)
+| **[Among Us Team building guide](https://www.bulb.digital/blog/the-ultimate-guide-to-playing-among-us-as-a-team-building-or-breaking-exercise)** Blog post by Mitch Herrema about how to play Among Us to improve your team building. |<img src="https://api.microlink.io?url=https%3A%2F%2Fbulb.digital/blog/the-ultimate-guide-to-playing-among-us-as-a-team-building-or-breaking-exercise&screenshot=true&meta=false&embed=screenshot.url" width="150"></img>|[✍](#-tags-and-information)
 
 ### 🔮 Remote Jobs
 
