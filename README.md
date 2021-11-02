@@ -70,9 +70,10 @@ Allow the remote team, as a group, to evaluate its past working cycle.
 
 | Url and description | Thumbnail | Tags |                                                                                                     
 |:--------------------|-----------|------|
-| **[Easy Retro](https://gather.town)** Centered around fully customizable spaces, Gather makes spending time with your communities just as easy as real life. |<img src="https://api.microlink.io?url=https%3A%2F%2Fgather.town&screenshot=true&meta=false&embed=screenshot.url" width="150"></img>|😁😍🤗
-
-TODO: https://easyretro.io/,https://www.retrium.com/,https://miro.com/,https://www.mural.co/
+| **[Easy Retro](https://easyretro.io/)** Collaborate with your remote team and get better at what you do with a simple, intuitive and beautiful tool. |<img src="https://api.microlink.io?url=https%3A%2F%2Feasyretro.io&screenshot=true&meta=false&embed=screenshot.url" width="150"></img>|[🆓💳](#-tags-and-information)
+| **[Miro](https://miro.com/)** Collaborate with your remote team and get better at what you do with a simple, intuitive and beautiful toolThe online collaborative whiteboard platform to bring teams together, anytime, anywhere. |<img src="https://api.microlink.io?url=https%3A%2F%2Fmiro.com&screenshot=true&meta=false&embed=screenshot.url" width="150"></img>|[🆓💳](#-tags-and-information)
+| **[Mural](https://mural.co/)** Discover digital-first visual collaboration with MURAL. More than an online whiteboard, where everyone contributes equally and hard problems are solved faster. |<img src="https://api.microlink.io?url=https%3A%2F%2Fmural.co&screenshot=true&meta=false&embed=screenshot.url" width="150"></img>|[🆓💳](#-tags-and-information)
+| **[Retrium](https://retrium.com/)** Enables agile teams to have effective conversations, discover new insights, and generate action plans. |<img src="https://api.microlink.io?url=https%3A%2F%2Fretrium.com&screenshot=true&meta=false&embed=screenshot.url" width="150"></img>|[💳](#-tags-and-information)
 
 ### 🏂 Team Building
 
