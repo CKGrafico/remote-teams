@@ -113,6 +113,9 @@ Example:
 |:--------------------|-----------|------|
 | **[Lorem](https://lipsum.com)** A tool to generate Lorem ipsum texts |<img src="https://api.microlink.io?url=https%3A%2F%2Fwww.lipsum.com&screenshot=true&meta=false&embed=screenshot.url" width="150"></img>|[🆓🤗](#-tags-and-information)[🏢](#-virtual-offices)
 
+### Thanks to everyone who contributed:
+[![Contributors](https://contrib.rocks/image?repo=ckgrafico/talentforyourevent)](https://github.com/CKGrafico/talentforyourevent/graphs/contributors)
+
 ---
 Made with 🍕 by [Quique Fdez Guerra](https://twitter.com/ckgrafico)
 
